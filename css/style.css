@@ -213,7 +213,7 @@ footer {
 
     #form-container,
     .form-box,
-    #registre-container,
+    .registre-container,
     .get-app-container {
         width: 100%;
         border: none;
@@ -227,8 +227,5 @@ footer {
         flex-wrap: wrap;
         justify-content: center;
     }
-
-    #registre-container {
-        margin: 10px auto 0;
-    }
+   
 }
